@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <div>
+            <img src="logo-udemy.svg" alt="">
+            <p>Categories</p>
+            <input type="text" placeholder="Search for anything">
+            <a href="">UdemyBusiness</a>
+            <a href="">Teach on Udemy</a>
+            <button> Login</button>
+            <button>Sign up</button>
+        </div>
+        <div>
+            <img src="udemy-1.jpg" alt="">
+        </div>
+        <div>
+            <h2>A broad selection of courses</h2>
+            <p>Choose from 213,000 online video courses with new additions published every month</p>
+        </div>
+        <div>
+            <ul>
+                <li><strong>Python</strong></li>
+                <li>Excel</li>
+                <li>Web development</li>
+                <li>JavaScript </li>
+                <li>Data Science</li>
+                <li>AWS Certification</li>
+                <li>Drawing</li>
+            </ul>
+        </div>
+        <div>
+            <h1>Expand career oppoturnities with Python</h1>
+            <p>Take one of Udemy’s range of Python courses and learn how to code using this incredibly useful language.
+                Its<br> simple syntax and readability makes Python perfect for Flask, Django, data science, and machine
+                learning. You’ll<br> learn how to build everything from games to sites to apps. Choose from a range of
+                courses that will appeal to</p>
+            <button>Explore Python</button>
+            <div>
+                <h3>Learn python: The complete begnners course</h3>
+            </div>
+            <div>
+                <h3>learningPython for data analysis and visualization</h3>
+            </div>
+            <div>
+                <h3>Python for Beginners learn programming from scratch</h3>
+            </div>
+        </div>
+        <div>
+            <ul>
+                <li>Learn in-demand skills with over 213,000 video courses</li>
+                <li>Choose courses taught by real-world experts</li>
+                <li>Learn at your own pace, with lifetime access on mobile and desktop</li>
+            </ul>
+        </div>
+        <div>
+            <h2>Top Catergories</h2>
+            <div>
+                <img src="udemy-6.jpg" alt="">
+                <h4>Design</h4>
+            </div>
+            <div>
+                <img src="udemy-7.jpg" alt="">
+                <h4>Development</h4>
+            </div>
+            <div>
+                <img src="udemy-9.jpg" alt="">
+                <h4>Marketing</h4>
+            </div>
+            <div>
+                <img src="udemy-10.jpg" alt="">
+                <h4>IT and Software</h4>
+            </div>
+            <div>
+                <img src="udemy-11.jpg" alt="">
+                <h4>Personal Development</h4>
+            </div>
+            <div>
+                <img src="udemy-12.jpg" alt="">
+                <h4>Business</h4>
+            </div>
+            <div>
+                <img src="udemy-13.jpg" alt="">
+                <h4>Photography</h4>
+            </div>
+            <div>
+                <img src="udemy-14.jpg" alt="">
+                <h4>Music</h4>
+            </div>
+        </div>
+        <div>
+            <h3>Featured topics by category</h3>7
+            <div>
+                <ul>
+                    <li><strong>Development</strong></li>
+                    <li>Python</li>
+                    <li>Web Development</li>
+                    <li>Machine Learning</li>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li><strong>Business</strong></li>
+                    <li>Financial analysis</li>
+                    <li>SQL</li>
+                    <li>PMP</li>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li><strong>IT and Software</strong></li>
+                    <li>AWS Certification</li>
+                    <li>Ethical hacking</li>
+                    <li>Cyber security</li>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li><strong>Design</strong></li>
+                    <li>Photoshop</li>
+                    <li>Graphic Design</li>
+                    <li>Drawing</li>
+                </ul>
+            </div>
+            <button>Explore more topics</button>
+        </div>
+    </div>
+</body>
+
+</html>
