@@ -1,0 +1,348 @@
+.ude {
+    width: 100px;
+    height: 50px;
+}
+
+.first-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cat {
+    text-align: left;
+}
+
+.tex {
+    width: 400px;
+    height: 50px;
+    border-radius: 15px;
+}
+
+.udem {
+    text-decoration: none;
+    color: black;
+    padding-top: 20px;
+}
+
+.sure {
+    width: 80px;
+    border-style: solid;
+    border-color: black;
+    color: white;
+    background-color: black;
+    padding: 5px 12px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+
+.udem :hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.sur {
+    width: 80px;
+    border-style: solid;
+    border-color: black;
+    color: black;
+    background-color: whitesmoke;
+    padding: 5px 12px;
+    border: 5px;
+    border-radius: 5px;
+}
+
+.bro {
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.chose {
+    font-size: 20px;
+}
+
+.fit {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rit {
+    border: 1px;
+    border-style: solid;
+    border-radius: 2px;
+    background-color: white;
+    border-color: lightgrey;
+    padding-left: 10px;
+    border-bottom: 2px;
+}
+
+.lat {
+    font-weight: bolder;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.let {
+    border: 1px;
+    border-style: solid;
+    border-radius: 2px;
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+}
+
+.like {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -1.6rem -3.2rem 0;
+    padding-left: 40px;
+    border: 1px;
+    border-style: solid;
+    border-color: whitesmoke;
+
+}
+
+.lit {
+    border: 2px;
+    border-style: solid;
+    border-color: whitesmoke;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+.last {
+    display: flex;
+    justify-content: space-between;
+    border: 1px;
+    border-style: solid;
+    border-color: whitesmoke;
+    margin-top: 10px;
+}
+.rig {
+    list-style-type: none;
+}
+.dit {
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    background-color: whitesmoke;
+    padding-bottom: 20px;
+}
+.tee {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.tea {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+     text-decoration: underline;
+     font-weight: bold;
+}
+.sut {
+    background-color: whitesmoke;
+    color: black;
+    padding: 5px 12px;
+    width: 200px;
+    height: 40px;
+    font-weight: bold;
+}
+.nit {
+    font-weight: lighter;
+    font-size: 15px;
+}
+.fourth-section {
+    border: 1px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 60px;
+}
+.hot {
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: Georgia;
+}
+.hit {
+
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.for {
+    padding-left: 200px ;
+    padding-top: 100px;
+}
+.sue {
+    width: 250px;
+    border-style: solid;
+    border-color: black;
+    color: white;
+    background-color: black;
+    padding: 5px 12px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    height: 50px;
+}
+.fifth-section {
+    border: 1px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: rgb(245, 245, 245);
+    background-color: rgb(245, 245, 245);
+    margin-top: 10px;
+}
+.hut {
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: Georgia;  
+    text-align: center;  
+}
+.het {
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.fifth-sections {
+    display: flex;
+    justify-content: space-between;
+}
+.six {
+    border: 1px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: rgb(255, 253, 253);
+    background-color: rgb(255, 253, 253);
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 100px;
+
+}
+.udey {
+    width: 150px;
+    height: 50px;
+}
+.sox {
+    padding-left: 200px;
+    padding-top: 80px;
+}
+.sit {
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.sat {
+    width: 250px;
+    border-style: solid;
+    border-color: black;
+    color: white;
+    background-color: black;
+    padding: 5px 12px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    height: 50px;
+}
+.seven {
+    border: 1px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: rgb(255, 253, 253);
+    background-color: rgb(255, 253, 253);
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+}
+.seve {
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sev {
+    padding-top: 80px;
+    padding-right: 120px;
+}
+.mit {
+    list-style-type: none;
+    color: white;
+    font-family: Georgia;
+}
+footer {
+    background-color: black;
+}
+.father {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 40px;
+    padding-top: 30px;
+}
+.bit {
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+}
+.tit {
+    width: 150px;
+    height: 40px;
+    background-color: white;
+
+}
+.mother {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.moy {
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.udeo {
+    width: 100px;
+    height: 50px;
+    padding-left: 20px;
+}
+.ari {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.that {
+    position: absolute;
+}
+
+.this {
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 400px;
+    height: 130px;
+    position: relative;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 40px;
+    padding-left: 10px;
+
+}
+.ther {
+    position: absolute;
+}
+.tho {
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.tet {
+    color: white;
+    display: flex;
+    align-items: right;
+}
