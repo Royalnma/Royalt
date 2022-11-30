@@ -300,7 +300,10 @@ footer {
 .mother {
     display: flex;
     justify-content: space-between;
-    margin-top: 10px;
+    margin-top: 50px;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
 }
 .moy {
     font-family: sans-serif;
@@ -345,4 +348,18 @@ footer {
     color: white;
     display: flex;
     align-items: right;
+}
+.true {
+    padding: 10px 10px 10px 10px;
+}
+.bts {
+    width: 80px;
+    height: 50px;
+    background-color: darkorange;
+    font-weight: bold;
+}
+.ti {
+    font-size: 12px;
+    font-weight: 100;
+    font-family: sans-serif;
 }
