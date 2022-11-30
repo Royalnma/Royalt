@@ -319,9 +319,6 @@ footer {
     font-weight: bold;
     font-family: sans-serif;
 }
-.that {
-    position: absolute;
-}
 
 .this {
     border: 1px;
@@ -331,13 +328,17 @@ footer {
     height: 130px;
     position: relative;
     background-color: white;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-left: 40px;
     padding-left: 10px;
+    
 
 }
 .ther {
+    height: 250px;
+    width: 1350px;
     position: absolute;
+
 }
 .tho {
     font-size: 30px;
@@ -362,4 +363,10 @@ footer {
     font-size: 12px;
     font-weight: 100;
     font-family: sans-serif;
+}
+.fir {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    margin-top: 100px;
 }
